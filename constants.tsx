@@ -18,12 +18,14 @@ export const BLOG_POSTS: BlogPost[] = [
           En la era de la información, la identidad ya no se define únicamente por documentos físicos o presencia biológica. 
           La identidad digital se configura como el conjunto de rastros, datos y comportamientos que dejamos en la red, 
           creando una proyección de nuestra persona que a menudo nos precede.
+        <div className="my-6 w-full flex justify-center">
+          {/* Imagen personalizada aquí */}
+        </div>
         </p>
           <VideoEmbed 
-            title="Ciberseguridad en el ámbito legal"
-            src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Video educativo sobre seguridad digital
-            caption="Importancia de la ciberseguridad para profesionales del derecho."
-          />
+            <p className="mb-4">
+              <a href="https://www.youtube.com/watch?v=rNmXiYY9iHA" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad en el ámbito legal</a>
+            </p>
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">El concepto de Huella Digital</h2>
         <p className="mb-4">
           Cada interacción en línea, desde un "me gusta" en redes sociales hasta una transacción bancaria, constituye un fragmento de nuestra huella digital. 
@@ -68,6 +70,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La "Netiqueta" no es simplemente un manual de buenos modales; es el código de conducta que permite la convivencia pacífica y productiva en el ciberespacio. 
           La falta de señales no verbales en la comunicación escrita exige una mayor precisión y cortesía.
+        <div className="my-6 w-full flex justify-center">
+          {/* Imagen personalizada aquí */}
+        </div>
         </p>
         
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Principios Fundamentales</h2>
@@ -112,6 +117,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La seguridad digital comprende las medidas técnicas, organizativas y legales para proteger los sistemas de información. 
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
+        <div className="my-6 w-full flex justify-center">
+          {/* Imagen personalizada aquí */}
+        </div>
         <p className="mb-4">
           <a href="https://www.youtube.com/watch?v=c7wAz9w4urY" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad</a>
         </p>
@@ -159,6 +167,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La protección digital se centra en el control que los individuos tienen sobre su propia información. 
           En la economía de datos, la privacidad se ha convertido en una moneda de cambio, a menudo entregada sin conciencia real de su valor.
+        <div className="my-6 w-full flex justify-center">
+          {/* Imagen personalizada aquí */}
+        </div>
         <p className="mb-4">
           <a href="https://www.youtube.com/watch?v=MUlTEYg82JU" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre privacidad y protección de datos</a>
         </p>
