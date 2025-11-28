@@ -147,8 +147,8 @@ export const BLOG_POSTS: BlogPost[] = [
       </>
     ),
     references: [
-      { id: 'r1', text: 'Incibe (2023). Guía de Ciberseguridad para el sector legal.' },
-      { id: 'r2', text: 'Reglamento (UE) 2016/679 (RGPD), Artículos 32 y siguientes.' }
+      { id: 'r1', text: 'Código de Ética Profesional del Abogado Venezolano.', url: 'https://www.oab.org.br/Content/pdf/codigos/codigo_de_etica_profissional_do_advogado_venezolano.pdf' },
+      { id: 'r2', text: 'Ley Especial contra los Delitos Informáticos y Código Penal, Artículo 18', url: 'https://www.tsj.gob.ve/legislacion/leyes/Ley_Especial_contra_los_Delitos_Informaticos.pdf' }
     ]
   },
   {
