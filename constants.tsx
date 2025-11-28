@@ -114,9 +114,7 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La seguridad digital comprende las medidas técnicas, organizativas y legales para proteger los sistemas de información. 
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
-        <div className="my-6 w-full flex justify-center">
-          {/* Imagen personalizada aquí */}
-        </div>
+
         <p className="mb-4">
           <a href="https://www.youtube.com/watch?v=c7wAz9w4urY" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad</a>
         </p>
@@ -127,6 +125,9 @@ export const BLOG_POSTS: BlogPost[] = [
           El Phishing, el Ransomware y la Ingeniería Social son las amenazas predominantes. La mayoría de los incidentes de seguridad 
           no se deben a fallos técnicos complejos, sino al error humano.
         </p>
+        <div className="my-6 w-full flex justify-center">
+           <img src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Integración Jurídica" />
+          </div>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Integración Jurídica: El Deber de Custodia</h2>
         <div className="bg-navy-900 text-cream-50 p-6 rounded-sm shadow-lg mb-8">
@@ -164,9 +165,6 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La protección digital se centra en el control que los individuos tienen sobre su propia información. 
           En la economía de datos, la privacidad se ha convertido en una moneda de cambio, a menudo entregada sin conciencia real de su valor.
-        <div className="my-6 w-full flex justify-center">
-          {/* Imagen personalizada aquí */}
-        </div>
         <p className="mb-4">
           <a href="https://www.youtube.com/watch?v=MUlTEYg82JU" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre privacidad y protección de datos</a>
         </p>
@@ -182,6 +180,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="mb-4">
           Para el futuro abogado, la protección de datos es un nicho de mercado en expansión y una competencia transversal obligatoria. 
           Entender los derechos de Acceso, Rectificación, Cancelación, Oposición, Portabilidad y Limitación (ARCO-POL) es esencial.
+          <div className="my-6 w-full flex justify-center">
+           <img src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Integración Jurídica" />
+          </div>
         </p>
         <p className="mb-4">
           El derecho al olvido digital es un ejemplo claro de cómo la doctrina jurídica ha tenido que evolucionar para proteger la dignidad humana frente a la memoria infinita de los buscadores.
