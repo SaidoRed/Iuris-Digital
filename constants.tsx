@@ -81,11 +81,13 @@ export const BLOG_POSTS: BlogPost[] = [
         </ul>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Integración Jurídica: La Comunicación Procesal</h2>
-        <p className="mb-4">
-           En el ejercicio del derecho, la forma es todo. La comunicación electrónica entre abogados, y entre abogado y tribunal (vía sistemas como Lexxius, Correo electrónico o notificaciones electrónicas), 
-           tiene validez legal.
-        <div className="my-6 w-full flex justify-center">{src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}</div>
-        </p>
+          <p className="mb-4">
+            En el ejercicio del derecho, la forma es todo. La comunicación electrónica entre abogados, y entre abogado y tribunal (vía sistemas como Lexxius, Correo electrónico o notificaciones electrónicas), 
+            tiene validez legal.
+          </p>
+          <div className="my-6 w-full flex justify-center">
+           <img src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Integración Jurídica" />
+          </div>
         <p className="mb-4">
            Una falta de etiqueta digital, como un lenguaje inapropiado en un correo electrónico profesional, no solo es una falta de educación, sino que puede constituir una 
            infracción del <strong>Código Deontológico de la Abogacía</strong>, que exige lealtad, respeto y compañerismo. Además, los insultos o calumnias vertidos en foros o redes 
