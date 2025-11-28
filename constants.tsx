@@ -112,11 +112,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La seguridad digital comprende las medidas técnicas, organizativas y legales para proteger los sistemas de información. 
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
-        <VideoEmbed 
-          title="Ciberseguridad en el ámbito legal"
-          src="https://www.youtube.com/watch?v=c7wAz9w4urY" // Video educativo sobre seguridad digital
-          caption="Importancia de la ciberseguridad para profesionales del derecho."
-        />
+        <p className="mb-4">
+          <a href="https://www.youtube.com/watch?v=c7wAz9w4urY" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad en el ámbito legal</a>
+        </p>
         </p>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Vectores de Ataque Comunes</h2>
@@ -161,11 +159,9 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La protección digital se centra en el control que los individuos tienen sobre su propia información. 
           En la economía de datos, la privacidad se ha convertido en una moneda de cambio, a menudo entregada sin conciencia real de su valor.
-        <VideoEmbed 
-          title="Privacidad y protección de datos"
-          src="https://www.youtube.com/watch?v=MUlTEYg82JU" // Video educativo sobre protección de datos
-          caption="Derechos y desafíos de la privacidad digital en la actualidad."
-        />
+        <p className="mb-4">
+          <a href="https://www.youtube.com/watch?v=MUlTEYg82JU" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre privacidad y protección de datos</a>
+        </p>
         </p>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Habeas Data</h2>
