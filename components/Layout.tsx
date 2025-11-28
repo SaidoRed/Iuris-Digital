@@ -21,7 +21,7 @@ export const Layout: React.FC<LayoutProps> = ({ children, currentPage, onNavigat
               Iuris<span className="text-gold-500">Digitalis</span>
             </h1>
             <p className="text-xs text-gray-400 tracking-widest uppercase mt-1 opacity-0 group-hover:opacity-100 transition-opacity">
-              Facultad de Derecho
+              UBA - Facultad de Derecho
             </p>
           </div>
           
@@ -67,7 +67,7 @@ export const Layout: React.FC<LayoutProps> = ({ children, currentPage, onNavigat
               Un espacio académico dedicado al estudio de la intersección entre el derecho y la tecnología.
               Promoviendo la cultura digital responsable.
             </p>
-            <p>&copy; {new Date().getFullYear()} Facultad de Derecho.</p>
+            <p>&copy; {new Date().getFullYear()} UBA - Facultad de Derecho.</p>
           </div>
           
           <div>
@@ -81,7 +81,7 @@ export const Layout: React.FC<LayoutProps> = ({ children, currentPage, onNavigat
 
           <div>
             <h4 className="text-white font-serif font-bold text-lg mb-4">Contacto</h4>
-            <p className="mb-2">Campus Universitario, Edificio B.</p>
+            <p className="mb-2">Campus Universitario, Facultad de Derecho</p>
             <p className="mb-2">info@iurisdigitalis.edu</p>
             <div className="flex mt-4 space-x-4">
               {/* Social placeholders */}

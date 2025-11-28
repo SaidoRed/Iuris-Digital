@@ -10,7 +10,7 @@ export const BLOG_POSTS: BlogPost[] = [
     subtitle: 'Gestión de la huella digital y sus implicaciones en la reputación jurídica.',
     category: 'Identidad Digital',
     readTime: '6 min lectura',
-    publishDate: 'Octubre 24, 2023',
+      publishDate: '28/11/2025',
     heroImage: 'https://picsum.photos/1200/600?grayscale',
     content: (
       <>
@@ -59,11 +59,11 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     id: '2',
     slug: 'etiqueta-digital',
-    title: 'Netiqueta: Normas de Comportamiento en la Red',
+      title: 'NETIQUETA DIGITAL',
     subtitle: 'Protocolos de comunicación y civilidad en el entorno virtual.',
-    category: 'Etiqueta Digital',
+      category: 'NETIQUETA DIGITAL',
     readTime: '4 min lectura',
-    publishDate: 'Octubre 26, 2023',
+      publishDate: '28/11/2025',
     heroImage: 'https://picsum.photos/1200/601?grayscale',
     content: (
       <>
@@ -107,7 +107,7 @@ export const BLOG_POSTS: BlogPost[] = [
     subtitle: 'Salvaguardando la integridad de la información en un entorno hostil.',
     category: 'Seguridad Digital',
     readTime: '7 min lectura',
-    publishDate: 'Noviembre 02, 2023',
+      publishDate: '28/11/2025',
     heroImage: 'https://picsum.photos/1200/602?grayscale',
     content: (
       <>
@@ -151,7 +151,7 @@ export const BLOG_POSTS: BlogPost[] = [
     subtitle: 'El derecho fundamental a la privacidad en la sociedad de la vigilancia.',
     category: 'Protección Digital',
     readTime: '5 min lectura',
-    publishDate: 'Noviembre 10, 2023',
+      publishDate: '28/11/2025',
     heroImage: 'https://picsum.photos/1200/603?grayscale',
     content: (
       <>
