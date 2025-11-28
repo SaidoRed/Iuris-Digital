@@ -43,7 +43,7 @@ const App: React.FC = () => {
               <img 
                 src={post.heroImage} 
                 alt={post.title} 
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter grayscale"
               />
               <div className="absolute top-4 left-4 bg-navy-900 text-white text-xs px-3 py-1 font-bold uppercase tracking-wide z-20">
                 {post.category}
@@ -107,7 +107,7 @@ const App: React.FC = () => {
            <img 
             src={post.heroImage} 
             alt={post.title} 
-            className="w-full h-auto object-cover max-h-[500px]"
+            className={`w-full h-auto object-cover max-h-[500px] filter grayscale ${post.id === '4' ? 'object-center md:object-[0_60%]' : ''}`}
           />
         </div>
 
