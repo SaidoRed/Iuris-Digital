@@ -84,6 +84,7 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="mb-4">
            En el ejercicio del derecho, la forma es todo. La comunicación electrónica entre abogados, y entre abogado y tribunal (vía sistemas como Lexxius, Correo electrónico o notificaciones electrónicas), 
            tiene validez legal.
+        <div className="my-6 w-full flex justify-center">{src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}</div>
         </p>
         <p className="mb-4">
            Una falta de etiqueta digital, como un lenguaje inapropiado en un correo electrónico profesional, no solo es una falta de educación, sino que puede constituir una 
@@ -93,8 +94,8 @@ export const BLOG_POSTS: BlogPost[] = [
       </>
     ),
     references: [
-      { id: 'r1', text: 'Shea, V. (1994). Netiquette. Albion Books.' },
-      { id: 'r2', text: 'Código Deontológico de la Abogacía Española (2019).', url: 'https://www.abogacia.es' }
+      { id: 'r1', text: 'Shea, V. (1994). Netiquette. Albion Books (Libro de Netiqueta).' },
+      { id: 'r2', text: 'Web del Software Lexxius.', url: 'https://lexius.io/ve/' }
     ]
   },
   {
