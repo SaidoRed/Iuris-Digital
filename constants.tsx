@@ -29,7 +29,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
         <VideoEmbed 
           title="Gestión de Identidad Digital"
-          src="https://www.youtube.com/embed/9w23p2a8e8g" // Placeholder educational video ID
+          src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Placeholder educational video ID
           caption="La importancia de la gestión proactiva de la identidad en entornos profesionales."
         />
 
