@@ -57,7 +57,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     id: '2',
     slug: 'etiqueta-digital',
-      title: 'Netiqueta Digital: Buenas Prácticas en la Comunicación Online',
+      title: 'Buenas Prácticas en la Comunicación Online',
     subtitle: 'Protocolos de comunicación y civilidad en el entorno virtual.',
       category: 'NETIQUETA DIGITAL',
     readTime: '4 min lectura',
@@ -114,7 +114,7 @@ export const BLOG_POSTS: BlogPost[] = [
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
         <VideoEmbed 
           title="Ciberseguridad en el ámbito legal"
-          src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Video educativo sobre seguridad digital
+          src="https://www.youtube.com/watch?v=c7wAz9w4urY" // Video educativo sobre seguridad digital
           caption="Importancia de la ciberseguridad para profesionales del derecho."
         />
         </p>
