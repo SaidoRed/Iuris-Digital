@@ -126,7 +126,7 @@ export const BLOG_POSTS: BlogPost[] = [
           no se deben a fallos técnicos complejos, sino al error humano.
         </p>
         <div className="my-6 w-full flex justify-center">
-           <img src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Integración Jurídica" />
+           <img src="https://plus.unsplash.com/premium_photo-1714618835760-5b2175ad3249?q=80&w=889&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Integración Jurídica" />
           </div>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Integración Jurídica: El Deber de Custodia</h2>
@@ -159,7 +159,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Protección Digital',
     readTime: '5 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://plus.unsplash.com/premium_photo-1723892425262-ccb9f6b6229d?q=80&w=866&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
+    heroImage: 'https://images.unsplash.com/photo-1633265486064-086b219458ec?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
