@@ -19,9 +19,9 @@ export const BLOG_POSTS: BlogPost[] = [
           La identidad digital se configura como el conjunto de rastros, datos y comportamientos que dejamos en la red, 
           creando una proyección de nuestra persona que a menudo nos precede.
         </p>
-        <div className="my-6 w-full flex justify-center">{/* Imagen personalizada aquí */}</div>
+        <div className="my-6 w-full flex justify-center"><img src="https://images.unsplash.com/photo-1667453466805-75bbf36e8707?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Identidad Digital" /></div>
         <div className="mb-4">
-          <a href="https://www.youtube.com/watch?v=rNmXiYY9iHA" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad en el ámbito legal</a>
+          <a href="https://www.youtube.com/watch?v=rNmXiYY9iHA" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre la identidad digital</a>
         </div>
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">El concepto de Huella Digital</h2>
         <p className="mb-4">
