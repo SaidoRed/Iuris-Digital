@@ -11,7 +11,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Identidad Digital',
     readTime: '6 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://plus.unsplash.com/premium_photo-1709143101313-d73dafff9e4d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?grayscale',
+    heroImage: 'https://plus.unsplash.com/premium_photo-1709143101313-d73dafff9e4d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
@@ -64,7 +64,7 @@ export const BLOG_POSTS: BlogPost[] = [
       category: 'NETIQUETA DIGITAL',
     readTime: '4 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?grayscale',
+    heroImage: 'https://images.unsplash.com/photo-1758518731462-d091b0b4ed0d?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
@@ -108,7 +108,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Seguridad Digital',
     readTime: '7 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://picsum.photos/1200/602?grayscale',
+    heroImage: 'https://images.unsplash.com/photo-1423784346385-c1d4dac9893a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
@@ -152,7 +152,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Protección Digital',
     readTime: '5 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://picsum.photos/1200/603?grayscale',
+    heroImage: 'https://images.unsplash.com/photo-1589307904488-7d60ff29c975?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
