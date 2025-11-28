@@ -49,7 +49,7 @@ export const BLOG_POSTS: BlogPost[] = [
     ),
     references: [
       { id: 'r1', text: 'Cervantes, J. (2020). Identidad digital y reputación online en la abogacía. Revista de Derecho Digital, 4(1), 45-60.' },
-      { id: 'r2', text: 'Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.', url: 'https://www.boe.es' },
+      { id: 'r2', text: 'Sentencia SC-TSJ Nº 441 del 25/04/2012', url: 'https://historico.tsj.gob.ve/decisiones/scon/diciembre/1766-171212-2012-12-1076.HTML' },
       { id: 'r3', text: 'Gasser, U., & Palfrey, J. (2008). Born Digital: Understanding the First Generation of Digital Natives. Basic Books.' }
     ]
   },
