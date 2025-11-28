@@ -68,7 +68,7 @@ export const BLOG_POSTS: BlogPost[] = [
           La "Netiqueta" no es simplemente un manual de buenos modales; es el código de conducta que permite la convivencia pacífica y productiva en el ciberespacio. 
           La falta de señales no verbales en la comunicación escrita exige una mayor precisión y cortesía.
         <div className="my-6 w-full flex justify-center">
-          {/* Imagen personalizada aquí */}
+          {src="https://plus.unsplash.com/premium_photo-1743020414444-eca232d8e101?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}
         </div>
         </p>
         
@@ -85,7 +85,7 @@ export const BLOG_POSTS: BlogPost[] = [
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Integración Jurídica: La Comunicación Procesal</h2>
         <p className="mb-4">
-           En el ejercicio del derecho, la forma es fondo. La comunicación electrónica entre abogados, y entre abogado y tribunal (vía sistemas como LexNET o notificaciones electrónicas), 
+           En el ejercicio del derecho, la forma es todo. La comunicación electrónica entre abogados, y entre abogado y tribunal (vía sistemas como Lexxius, Correo electrónico o notificaciones electrónicas), 
            tiene validez legal.
         </p>
         <p className="mb-4">
