@@ -19,15 +19,14 @@ export const BLOG_POSTS: BlogPost[] = [
           La identidad digital se configura como el conjunto de rastros, datos y comportamientos que dejamos en la red, 
           creando una proyección de nuestra persona que a menudo nos precede.
         </p>
-
+          <VideoEmbed 
+            title="Ciberseguridad en el ámbito legal"
+            src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Video educativo sobre seguridad digital
+            caption="Importancia de la ciberseguridad para profesionales del derecho."
+          />
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">El concepto de Huella Digital</h2>
         <p className="mb-4">
           Cada interacción en línea, desde un "me gusta" en redes sociales hasta una transacción bancaria, constituye un fragmento de nuestra huella digital. 
-          <VideoEmbed 
-            title="Ciberseguridad en el ámbito legal"
-            src="https://www.youtube.com/embed/2Vv1bqFQn6w" // Video educativo sobre seguridad digital
-            caption="Importancia de la ciberseguridad para profesionales del derecho."
-          />
           A diferencia de la huella física, esta es indeleble y acumulativa. Para los profesionales, gestionar esta huella no es una opción, 
           sino una necesidad estratégica.
         </p>
@@ -113,6 +112,11 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La seguridad digital comprende las medidas técnicas, organizativas y legales para proteger los sistemas de información. 
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
+        <VideoEmbed 
+          title="Ciberseguridad en el ámbito legal"
+          src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Video educativo sobre seguridad digital
+          caption="Importancia de la ciberseguridad para profesionales del derecho."
+        />
         </p>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Vectores de Ataque Comunes</h2>
@@ -157,6 +161,11 @@ export const BLOG_POSTS: BlogPost[] = [
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
           La protección digital se centra en el control que los individuos tienen sobre su propia información. 
           En la economía de datos, la privacidad se ha convertido en una moneda de cambio, a menudo entregada sin conciencia real de su valor.
+        <VideoEmbed 
+          title="Privacidad y protección de datos"
+          src="https://www.youtube.com/embed/7wGkQFz4F6Y" // Video educativo sobre protección de datos
+          caption="Derechos y desafíos de la privacidad digital en la actualidad."
+        />
         </p>
 
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Habeas Data</h2>
