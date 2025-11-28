@@ -23,6 +23,11 @@ export const BLOG_POSTS: BlogPost[] = [
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">El concepto de Huella Digital</h2>
         <p className="mb-4">
           Cada interacción en línea, desde un "me gusta" en redes sociales hasta una transacción bancaria, constituye un fragmento de nuestra huella digital. 
+          <VideoEmbed 
+            title="Ciberseguridad en el ámbito legal"
+            src="https://www.youtube.com/embed/2Vv1bqFQn6w" // Video educativo sobre seguridad digital
+            caption="Importancia de la ciberseguridad para profesionales del derecho."
+          />
           A diferencia de la huella física, esta es indeleble y acumulativa. Para los profesionales, gestionar esta huella no es una opción, 
           sino una necesidad estratégica.
         </p>
@@ -30,6 +35,11 @@ export const BLOG_POSTS: BlogPost[] = [
         <VideoEmbed 
           title="Gestión de Identidad Digital"
           src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Placeholder educational video ID
+          <VideoEmbed 
+            title="Privacidad y protección de datos"
+            src="https://www.youtube.com/embed/7wGkQFz4F6Y" // Video educativo sobre protección de datos
+            caption="Derechos y desafíos de la privacidad digital en la actualidad."
+          />
           caption="La importancia de la gestión proactiva de la identidad en entornos profesionales."
         />
 
