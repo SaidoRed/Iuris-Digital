@@ -49,8 +49,7 @@ export const BLOG_POSTS: BlogPost[] = [
     ),
     references: [
       { id: 'r1', text: 'Cervantes, J. (2020). Identidad digital y reputación online en la abogacía. Revista de Derecho Digital, 4(1), 45-60.' },
-      { id: 'r2', text: 'Sentencia SC-TSJ Nº 441 del 25/04/2012', url: 'https://historico.tsj.gob.ve/decisiones/scon/diciembre/1766-171212-2012-12-1076.HTML' },
-      { id: 'r3', text: 'Gasser, U., & Palfrey, J. (2008). Born Digital: Understanding the First Generation of Digital Natives. Basic Books.' }
+      { id: 'r2', text: 'Sentencia SC-TSJ Nº 441 del 25/04/2012', url: 'https://historico.tsj.gob.ve/decisiones/scon/diciembre/1766-171212-2012-12-1076.HTML' }
     ]
   },
   {
@@ -147,8 +146,8 @@ export const BLOG_POSTS: BlogPost[] = [
       </>
     ),
     references: [
-      { id: 'r1', text: 'Código de Ética Profesional del Abogado Venezolano.', url: 'https://www.oab.org.br/Content/pdf/codigos/codigo_de_etica_profissional_do_advogado_venezolano.pdf' },
-      { id: 'r2', text: 'Ley Especial contra los Delitos Informáticos y Código Penal, Artículo 18', url: 'https://www.tsj.gob.ve/legislacion/leyes/Ley_Especial_contra_los_Delitos_Informaticos.pdf' }
+      { id: 'r1', text: 'Código de Ética Profesional del Abogado Venezolano.', url: 'https://www.icj.org/wp-content/uploads/2014/11/Venezuela-CODIGO-DE-ETICA-PROFESIONAL-DEL-ABOGADO-VENEZOLANO-ESP.pdf' },
+      { id: 'r2', text: 'Ley Especial contra los Delitos Informáticos y Código Penal, Artículo 18', url: 'https://www.annaobserva.org/observatorio/wp-content/uploads/2018/03/Ley-Especial-contra-Delitos-Informáticos.pdf' }
     ]
   },
   {
