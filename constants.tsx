@@ -113,7 +113,7 @@ export const BLOG_POSTS: BlogPost[] = [
           La seguridad digital comprende las medidas técnicas, organizativas y legales para proteger los sistemas de información. 
           En un mundo interconectado, la brecha de seguridad es una cuestión de "cuándo", no de "si".
         <p className="mb-4">
-          <a href="https://www.youtube.com/watch?v=c7wAz9w4urY" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad en el ámbito legal</a>
+          <a href="https://www.youtube.com/watch?v=c7wAz9w4urY" target="_blank" rel="noopener noreferrer" className="text-gold-600 underline font-bold">Ver video educativo sobre ciberseguridad</a>
         </p>
         </p>
 
