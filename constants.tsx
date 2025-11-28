@@ -57,7 +57,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     id: '2',
     slug: 'etiqueta-digital',
-      title: 'NETIQUETA DIGITAL',
+      title: 'Netiqueta Digital: Buenas Prácticas en la Comunicación Online',
     subtitle: 'Protocolos de comunicación y civilidad en el entorno virtual.',
       category: 'NETIQUETA DIGITAL',
     readTime: '4 min lectura',
@@ -163,7 +163,7 @@ export const BLOG_POSTS: BlogPost[] = [
           En la economía de datos, la privacidad se ha convertido en una moneda de cambio, a menudo entregada sin conciencia real de su valor.
         <VideoEmbed 
           title="Privacidad y protección de datos"
-          src="https://www.youtube.com/embed/7wGkQFz4F6Y" // Video educativo sobre protección de datos
+          src="https://www.youtube.com/watch?v=MUlTEYg82JU" // Video educativo sobre protección de datos
           caption="Derechos y desafíos de la privacidad digital en la actualidad."
         />
         </p>
