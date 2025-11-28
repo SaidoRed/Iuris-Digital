@@ -32,17 +32,6 @@ export const BLOG_POSTS: BlogPost[] = [
           sino una necesidad estratégica.
         </p>
 
-        <VideoEmbed 
-          title="Gestión de Identidad Digital"
-          src="https://www.youtube.com/watch?v=rNmXiYY9iHA" // Placeholder educational video ID
-          <VideoEmbed 
-            title="Privacidad y protección de datos"
-            src="https://www.youtube.com/embed/7wGkQFz4F6Y" // Video educativo sobre protección de datos
-            caption="Derechos y desafíos de la privacidad digital en la actualidad."
-          />
-          caption="La importancia de la gestión proactiva de la identidad en entornos profesionales."
-        />
-
         <h2 className="text-2xl font-serif font-bold text-navy-900 mt-10 mb-4">Integración Jurídica: El Abogado y la Reputación Online</h2>
         <div className="bg-white p-8 border-l-4 border-gold-500 shadow-sm my-8">
           <h3 className="text-lg font-bold text-navy-800 mb-2 uppercase tracking-wide text-xs">Perspectiva Legal</h3>
