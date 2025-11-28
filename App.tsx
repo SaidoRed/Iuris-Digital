@@ -95,7 +95,7 @@ const App: React.FC = () => {
             {post.subtitle}
           </p>
           <div className="flex justify-center items-center text-sm text-gray-500 border-t border-b border-gray-200 py-3 space-x-4">
-            <span>Por <strong>Redacción Académica</strong></span>
+            <span>Por <strong>Carlos Escobar</strong></span>
             <span>•</span>
             <span>{post.publishDate}</span>
             <span>•</span>
