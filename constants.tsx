@@ -152,7 +152,7 @@ export const BLOG_POSTS: BlogPost[] = [
     category: 'Protección Digital',
     readTime: '5 min lectura',
       publishDate: '28/11/2025',
-    heroImage: 'https://images.unsplash.com/photo-1589307904488-7d60ff29c975?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
+    heroImage: 'https://plus.unsplash.com/premium_photo-1723892425262-ccb9f6b6229d?q=80&w=866&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&grayscale',
     content: (
       <>
         <p className="lead text-xl text-gray-600 mb-6 font-serif leading-relaxed">
