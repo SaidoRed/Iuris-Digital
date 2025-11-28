@@ -137,8 +137,8 @@ export const BLOG_POSTS: BlogPost[] = [
         </div>
         <p className="mb-4">
           Legalmente, el abogado tiene un deber reforzado de diligencia. Si un despacho de abogados sufre un ataque de Ransomware y se filtran datos sensibles de clientes 
-          (datos penales, médicos, económicos), el despacho enfrenta sanciones administrativas severas por parte de la Agencia de Protección de Datos, 
-          además de responsabilidad civil contractual frente al cliente.
+          (datos penales, médicos, económicos), el despacho enfrenta sanciones administrativas severas por parte del Estado (Ley Especial contra los Delitos Informáticos y Código Penal.) , frente al Gremio (Código de Ética Profesional del Abogado Venezolano.)
+          y además de responsabilidad civil contractual frente al cliente.
         </p>
         <p>
           La adopción de medidas de seguridad (cifrado, copias de seguridad, autenticación de doble factor) no es opcional para el jurista; es una obligación legal derivada 
